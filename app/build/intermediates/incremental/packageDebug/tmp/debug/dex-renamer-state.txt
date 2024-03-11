@@ -1,0 +1,4 @@
+#Fri Jun 23 22:29:15 WIT 2023
+base.0=C\:\\Users\\MyBook PRO K7\\AndroidStudioProjects\\ProjectLayoutNPM\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
